@@ -1,0 +1,12 @@
+<body>
+    
+</body><link/>[ngStyle.xs]="estilos.sss"href
+
+
+
+
+
+<link="stilesheet"href=<style class="css"></style>
+<body>
+    <font-family>cour</font-family>
+</body>
